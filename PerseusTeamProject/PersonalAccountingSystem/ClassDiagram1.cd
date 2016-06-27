@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PersonalAccountingSystem.Common.Expenses.Expense" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Common\Expenses\Expense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Expenses.PermanentExpense" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Expenses\PermanentExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Child" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Child.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.HouseHold" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\HouseHold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Invalid" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Invalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Maternity" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Maternity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Registered" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Registered.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Retired" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Retiree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Student" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Unemployed" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Unemployed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Households.Worker" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Households\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Incomes.Income" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Incomes\Income.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Incomes.PermanentIncome" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Incomes\PermanentIncome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.Common.Incomes.VariableIncome" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Incomes\VariableIncome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAccountingSystem.UI.Menu" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PersonalAccountingSystem.UI.Interfaces.IDrawable" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Interfaces\IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PersonalAccountingSystem.Common.Expenses.ExpenseType" Collapsed="true">
+    <Position X="19.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAAAAAAAABAABAAAQAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Common\Expenses\ExpenseType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PersonalAccountingSystem.Common.Incomes.IncomeType" Collapsed="true">
+    <Position X="21.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAACAAAAAAAAIAAAAIAIAKBCAAAAAAAIQAAACAQAA=</HashCode>
+      <FileName>Common\Incomes\IncomeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
